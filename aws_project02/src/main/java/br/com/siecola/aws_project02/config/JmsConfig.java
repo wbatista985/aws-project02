@@ -12,7 +12,6 @@ import org.springframework.jms.annotation.EnableJms;
 import org.springframework.jms.config.DefaultJmsListenerContainerFactory;
 import org.springframework.jms.support.destination.DynamicDestinationResolver;
 
-import javax.jms.ConnectionFactory;
 import javax.jms.Session;
 
 @Configuration
